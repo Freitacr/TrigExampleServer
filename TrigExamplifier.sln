@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrigExamplifierServer", "SinExamplifier\SinExamplifier.vcxproj", "{C2780625-34F8-43E6-83F5-3823A0B285E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrigExamplifierClient", "TrigExamplifier\TrigExamplifier.vcxproj", "{6DBF111C-FD98-4960-A7A7-92B5C3D9FFB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2780625-34F8-43E6-83F5-3823A0B285E2}.Debug|x64.ActiveCfg = Debug|x64
+		{C2780625-34F8-43E6-83F5-3823A0B285E2}.Debug|x64.Build.0 = Debug|x64
+		{C2780625-34F8-43E6-83F5-3823A0B285E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{C2780625-34F8-43E6-83F5-3823A0B285E2}.Debug|x86.Build.0 = Debug|Win32
+		{C2780625-34F8-43E6-83F5-3823A0B285E2}.Release|x64.ActiveCfg = Release|x64
+		{C2780625-34F8-43E6-83F5-3823A0B285E2}.Release|x64.Build.0 = Release|x64
+		{C2780625-34F8-43E6-83F5-3823A0B285E2}.Release|x86.ActiveCfg = Release|Win32
+		{C2780625-34F8-43E6-83F5-3823A0B285E2}.Release|x86.Build.0 = Release|Win32
+		{6DBF111C-FD98-4960-A7A7-92B5C3D9FFB1}.Debug|x64.ActiveCfg = Debug|x64
+		{6DBF111C-FD98-4960-A7A7-92B5C3D9FFB1}.Debug|x64.Build.0 = Debug|x64
+		{6DBF111C-FD98-4960-A7A7-92B5C3D9FFB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DBF111C-FD98-4960-A7A7-92B5C3D9FFB1}.Debug|x86.Build.0 = Debug|Win32
+		{6DBF111C-FD98-4960-A7A7-92B5C3D9FFB1}.Release|x64.ActiveCfg = Release|x64
+		{6DBF111C-FD98-4960-A7A7-92B5C3D9FFB1}.Release|x64.Build.0 = Release|x64
+		{6DBF111C-FD98-4960-A7A7-92B5C3D9FFB1}.Release|x86.ActiveCfg = Release|Win32
+		{6DBF111C-FD98-4960-A7A7-92B5C3D9FFB1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1341130-53C6-4B2C-AA85-0A9494461A63}
+	EndGlobalSection
+EndGlobal
